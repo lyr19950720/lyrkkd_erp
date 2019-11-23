@@ -1,1 +1,1 @@
-ERPç®¡ç†ç³»ç»Ÿä¹‹åŸ¹è®­ç®¡ç†
+²ÉÈ¡Ç°ºó¶Ë²»·ÖÀëµÄ¼Ü¹¹Ä£Ê½£¬Ê¹ÓÃDev Express¿Ø¼þ£¬ºó¶Ë²ÉÓÃC#ÓïÑÔ±àÐ´£¬Êý¾Ý¿âÊ¹ÓÃSQL Server¡£
